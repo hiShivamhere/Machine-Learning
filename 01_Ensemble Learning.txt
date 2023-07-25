@@ -1,3 +1,4 @@
+Ensemble learning:
 Ensemble learning is a powerful machine learning technique that combines multiple individual models (often referred to as "base learners" or "weak learners") to improve overall predictive performance. The idea is that by aggregating the predictions of several models, the ensemble can achieve better generalization and robustness than any individual model alone. Two popular ensemble methods are bagging and boosting, which we'll explain in detail along with code examples in Python.
 
 
